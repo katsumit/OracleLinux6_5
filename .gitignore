@@ -1,0 +1,8 @@
+# download resource
+*.iso
+*.zip
+*.rpm
+
+# unzipped resource
+database/
+grid/
