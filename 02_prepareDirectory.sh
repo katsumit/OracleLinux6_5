@@ -9,4 +9,3 @@ chmod -R 775 /u01
 chmod 660 /dev/sd*
 chown grid:asmadmin /dev/sd*
 # chgrp oinstall /opt/oracle
-
