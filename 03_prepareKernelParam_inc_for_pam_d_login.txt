@@ -1,0 +1,4 @@
+# Oracle Grid Infastructure settings start
+session required pam_limits.so
+
+# end
